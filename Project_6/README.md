@@ -45,7 +45,7 @@ This project leverages deep learning to classify human facial expressions into 7
 To run the **Emotion Classification App** locally, follow these steps:
 
 # here it's the link of the app:
-https://emotionclassificationapp-using-ml-isipebgcurlrtdqfqksayg.streamlit.app/
+https://project-zvegd9jkv3djthjwvaxdfu.streamlit.app/
 
 ### 1. Clone the Repository
 ```bash
