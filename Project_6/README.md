@@ -49,8 +49,8 @@ https://emotionclassificationapp-using-ml-isipebgcurlrtdqfqksayg.streamlit.app/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AmiraSayedMohamed/Emotion_Classification_App-Using-ML.git
-cd Emotion_Classification_App-Using-ML
+git clone https://github.com/Mohamed-Makki/Deep_Learning-Projects.git
+cd Project_6
 
 
 
