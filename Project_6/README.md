@@ -1,6 +1,5 @@
 # EMOTION RECOGNITION with Deep Learning 🤖💥
-![Imgtest](![Imgtest](https://github.com/user-attachments/assets/8461a64f-4510-41e0-895d-fdf0df2e7f1c)
-)
+![Imgtest](https://github.com/user-attachments/assets/8461a64f-4510-41e0-895d-fdf0df2e7f1c)
 
 
 
